@@ -1,0 +1,10 @@
+Name: Groups
+Id: g=87288a2dd8b188e7e04f2326009d0af8
+Type: GroupsCategoryFolder
+Children:
+- Name: Admins
+  Id: g=c53d25f701734e78c8f9aa44dedce30f
+  Type: GroupType
+- Name: Users
+  Id: g=4d0e6e2b1e619582e14037868194dce9
+  Type: GroupType
